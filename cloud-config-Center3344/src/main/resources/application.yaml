@@ -15,9 +15,6 @@ spring:
           uri: git@github.com:youguiyu2001/SpringCloudConfig-config.git
           search-paths:
             -  SpringCloudConfig-config
-          username: 2931499322@qq.com
-          password: YouGuiYu3024.
-          skip-ssl-validation: true
       label: master
 
 
